@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Introduction to GitHub!
 
 _Get started using GitHub in less than an hour._
 
@@ -51,7 +51,7 @@ Check out these resources to learn more or get involved:
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
+  <<< Author notes: Footer!!! >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
